@@ -39,3 +39,32 @@ hr {
 	margin-top: 3rem;
 	margin-bottom: 3rem;
 }
+
+#ind_1 table {
+	border-collapse: collapse;
+}
+#ind_1 caption {
+	color: #008cca;
+}
+#ind_1 th, td {
+	border: 1px solid #8fbac8;
+	padding: 8px;
+}
+#ind_1 th{
+	color: #fff;
+	background: #606668;
+}
+#ind_1 a:hover{
+	background: #516ab6;
+}
+#ind_1 a:active{
+	background: rgba(143, 9, 9, 0.555);
+}
+#cyb_1 strong{
+	line-height: normal;
+	font-weight: 900;
+}
+#it_1 strong{
+	line-height: normal;
+	font-weight: 900;
+}
