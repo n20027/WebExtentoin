@@ -61,6 +61,7 @@ hr {
 	background: rgba(143, 9, 9, 0.555);
 }
 #cyb_1 strong{
+	text-align: left;
 	line-height: normal;
 	font-weight: 900;
 }
